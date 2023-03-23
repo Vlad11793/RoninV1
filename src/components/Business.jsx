@@ -2,6 +2,7 @@ import { features, } from "../constants";
 import styles, { layout } from "../style";
 import Button from "./Button";
 
+
 const FeatureCard = ({ icon, title, content, index }) => (
   <div className={`flex flex-row p-6 rounded-[20px] ${index !== features.length - 1 ? "mb-6" : "mb-0"} feature-card`}>
     <div className={`w-[64px] h-[64px] rounded-full ${styles.flexCenter} bg-dimBlue`}>
@@ -19,7 +20,6 @@ const FeatureCard = ({ icon, title, content, index }) => (
 );
 
 
-
 const Business = () =>  (
   <section id="services" className={layout.section}>
     <div className={layout.sectionInfo}>
@@ -30,8 +30,7 @@ const Business = () =>  (
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
       Our team of skilled professionals is dedicated to helping you navigate the ever-changing landscape of technology, and we're committed to delivering innovative solutions that drive your business forward. Whether you need comprehensive IT support or strategic guidance, we've got you covered.
       </p>
-
-      <Button styles={`mt-10`} />
+      <Button styles={`mt-10`}/>
     </div>
 
     <div className={`${layout.sectionImg} flex-col`}>
@@ -43,3 +42,4 @@ const Business = () =>  (
 );
 
 export default Business;
+

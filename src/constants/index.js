@@ -81,7 +81,7 @@ export const feedback = [
   {
     id: "feedback-2",
     content:
-      "I've been using your IT MSP services I couldn't be happier. The team is always available and they take the time to explain things in a way that makes sense to me. Special shoutout to Mark, who has been my go-to technician. Keep up the great work!",
+      "I've been using your IT services and I couldn't be happier. The team is always available and they take the time to explain things in a way that makes sense to me. Special shoutout to Mark, who has been my go-to technician. Keep up the great work!",
     name: "Tom W",
     //title: "Founder & Leader",
     //img: people02,
@@ -89,8 +89,16 @@ export const feedback = [
   {
     id: "feedback-3",
     content:
-      "Your IT MSP company has been a game-changer for my small business. I appreciate how proactive your team is in identifying and addressing potential problems. Thanks to your company, I can focus on what I do best - running my business!",
+      "Your IT company has been a game-changer for my small business. I appreciate how proactive your team is in identifying and addressing potential problems. Thanks to your company, I can focus on what I do best - running my business!",
     name: "Jason M",
+    // title: "Founder & Leader",
+    // img: people03,
+  },
+  {
+    id: "feedback-4",
+    content:
+    "I recently had new access points installed for my business, and the team did an amazing job! They not only customized the setup to suit our needs but also scaled it perfectly for our growth. Highly recommended!",
+    name: "Amber T",
     // title: "Founder & Leader",
     // img: people03,
   },
@@ -115,69 +123,69 @@ export const stats = [
 ];
 
 export const footerLinks = [
-  {
-    title: "Useful Links",
-    links: [
-      {
-        name: "Content",
-        link: "https://www.hoobank.com/content/",
-      },
-      {
-        name: "How it Works",
-        link: "https://www.hoobank.com/how-it-works/",
-      },
-      {
-        name: "Create",
-        link: "https://www.hoobank.com/create/",
-      },
-      {
-        name: "Explore",
-        link: "https://www.hoobank.com/explore/",
-      },
-      {
-        name: "Terms & Services",
-        link: "https://www.hoobank.com/terms-and-services/",
-      },
-    ],
-  },
-  {
-    title: "Community",
-    links: [
-      {
-        name: "Help Center",
-        link: "https://www.hoobank.com/help-center/",
-      },
-      {
-        name: "Partners",
-        link: "https://www.hoobank.com/partners/",
-      },
-      {
-        name: "Suggestions",
-        link: "https://www.hoobank.com/suggestions/",
-      },
-      {
-        name: "Blog",
-        link: "https://www.hoobank.com/blog/",
-      },
-      {
-        name: "Newsletters",
-        link: "https://www.hoobank.com/newsletters/",
-      },
-    ],
-  },
-  {
-    title: "Partner",
-    links: [
-      {
-        name: "Our Partner",
-        link: "https://www.hoobank.com/our-partner/",
-      },
-      {
-        name: "Become a Partner",
-        link: "https://www.hoobank.com/become-a-partner/",
-      },
-    ],
-  },
+//   {
+//     title: "Useful Links",
+//     links: [
+//       {
+//         name: "Content",
+//         link: "https://www.hoobank.com/content/",
+//       },
+//       {
+//         name: "How it Works",
+//         link: "https://www.hoobank.com/how-it-works/",
+//       },
+//       {
+//         name: "Create",
+//         link: "https://www.hoobank.com/create/",
+//       },
+//       {
+//         name: "Explore",
+//         link: "https://www.hoobank.com/explore/",
+//       },
+//       {
+//         name: "Terms & Services",
+//         link: "https://www.hoobank.com/terms-and-services/",
+//       },
+//     ],
+//   },
+//   // {
+//   //   title: "Links 3rd Row",
+//   //   links: [
+//   //     {
+//   //       name: "Link1",
+//   //       link: "https://www.s",
+//   //     },
+//   //     {
+//   //       name: "Link2",
+//   //       link: "https://www.",
+//   //     },
+//   //     {
+//   //       name: "Link3",
+//   //       link: "https://www.",
+//   //     },
+//   //     {
+//   //       name: "Link4",
+//   //       link: "https://www.",
+//   //     },
+//   //     {
+//   //       name: "Link5",
+//   //       link: "https://www.",
+//   //     },
+//   //   ],
+//   // },
+//   // {
+//   //   title: "Links",
+//   //   links: [
+//   //     {
+//   //       name: "Links",
+//   //       link: "https://www.",
+//   //     },
+//   //     {
+//   //       name: "Links",
+//   //       link: "https://www.",
+//   //     },
+//   //   ],
+//   // },
 ];
 
 export const socialMedia = [
@@ -199,7 +207,7 @@ export const socialMedia = [
   {
     id: "social-media-4",
     icon: linkedin,
-    link: "https://www.linkedin.com/",
+    link: "https://www.linkedin.com/company/ronin-network-solutions",
   },
 ];
 

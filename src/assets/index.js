@@ -1,16 +1,11 @@
-
-import bill from "./bill.png";
-import card from "./card.png";
+import biger from "./Biger.otf";
 import logo from "./Logo.png";
 import quotes from "./quotes.svg";
-import robot from "./robot.png";
 import send from "./Send.svg";
 import shield from "./Shield.svg";
 import star from "./Star.svg";
 import menu from "./menu.svg";
 import close from "./close.svg";
-import google from "./google.svg";
-import apple from "./apple.svg";
 import arrowUp from "./arrow-up.svg";
 import discount from "./Discount.svg";
 import facebook from "./facebook.svg";
@@ -28,26 +23,22 @@ import ccna from './CCNA.png';
 import hexagon from './Hexagon.svg';
 import pentagon from './Pentagon.svg';
 import diamond from './Diamond.svg';
-import server from './Server.png';
+import server from './Server3.png';
 import server2 from './Server2.png';
 
 
 export {
+  biger,
   server,
   server2,
-  bill,
-  card,
   diamond,
   logo,
   quotes,
-  robot,
   send,
   shield,
   star,
   menu,
   close,
-  google,
-  apple,
   arrowUp,
   discount,
   facebook,

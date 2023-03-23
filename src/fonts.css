@@ -1,0 +1,6 @@
+/* src/fonts.css */
+@font-face {
+    font-family: "Biger";
+    src: url("/assets/Biger.otf") format("opentype");
+  }
+  
