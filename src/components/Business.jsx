@@ -28,7 +28,7 @@ const Business = () =>  (
         the rest.</span>
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-      Our team of skilled professionals is dedicated to helping you navigate the ever-changing landscape of technology, and we're committed to delivering innovative solutions that drive your business forward. Whether you need comprehensive IT support or strategic guidance, we've got you covered.
+      Our team of skilled professionals is dedicated to helping you navigate the ever-changing landscape of technology. We're committed to delivering innovative solutions that drive your business forward. Whether you need comprehensive IT support or strategic guidance, we've got you covered.
       </p>
       <Button styles={`mt-10`}/>
     </div>

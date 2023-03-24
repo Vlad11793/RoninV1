@@ -163,3 +163,6 @@
   background: rgba(255, 255, 255, 0.6);
   filter: blur(750px);
 }
+.whatPeopleAre {
+  margin-right: 8px; /* Adjust this value according to the desired space */
+}

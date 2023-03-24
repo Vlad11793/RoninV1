@@ -117,75 +117,13 @@ export const stats = [
   },
   {
     id: "stats-3",
-    title: "We Will Install and Configure",
+    title: "Installation and Configuration",
     //value: "We will design, install, and maintain your network, security, and smart home systems.",
   },
 ];
 
 export const footerLinks = [
-//   {
-//     title: "Useful Links",
-//     links: [
-//       {
-//         name: "Content",
-//         link: "https://www.hoobank.com/content/",
-//       },
-//       {
-//         name: "How it Works",
-//         link: "https://www.hoobank.com/how-it-works/",
-//       },
-//       {
-//         name: "Create",
-//         link: "https://www.hoobank.com/create/",
-//       },
-//       {
-//         name: "Explore",
-//         link: "https://www.hoobank.com/explore/",
-//       },
-//       {
-//         name: "Terms & Services",
-//         link: "https://www.hoobank.com/terms-and-services/",
-//       },
-//     ],
-//   },
-//   // {
-//   //   title: "Links 3rd Row",
-//   //   links: [
-//   //     {
-//   //       name: "Link1",
-//   //       link: "https://www.s",
-//   //     },
-//   //     {
-//   //       name: "Link2",
-//   //       link: "https://www.",
-//   //     },
-//   //     {
-//   //       name: "Link3",
-//   //       link: "https://www.",
-//   //     },
-//   //     {
-//   //       name: "Link4",
-//   //       link: "https://www.",
-//   //     },
-//   //     {
-//   //       name: "Link5",
-//   //       link: "https://www.",
-//   //     },
-//   //   ],
-//   // },
-//   // {
-//   //   title: "Links",
-//   //   links: [
-//   //     {
-//   //       name: "Links",
-//   //       link: "https://www.",
-//   //     },
-//   //     {
-//   //       name: "Links",
-//   //       link: "https://www.",
-//   //     },
-//   //   ],
-//   // },
+
 ];
 
 export const socialMedia = [
